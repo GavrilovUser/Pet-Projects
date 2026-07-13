@@ -1,3 +1,3 @@
 ## 📂 Pet Projects
 **Bad code and poor releases**  
- • Other Text
+ • There is nothing now.
